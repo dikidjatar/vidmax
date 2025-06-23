@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VidMax</string>
+    <string name="url">URL</string>
+    <string name="video">Video</string>
+    <string name="audio">Audio</string>
+    <string name="cancel">Batal</string>
+    <string name="download">Download</string>
+    <string name="best_quality">Kualitas terbaik</string>
+    <string name="lowest_quality">Kualitas terendah</string>
+    <string name="video_quality">Kualitas Video</string>
+    <string name="url_empty">URL Kosong!</string>
+    <string name="download_service">Mengunduh</string>
+    <string name="channel_desc">Lihat progres unduhan untuk file</string>
+    <string name="failed_download_msg">Gagal mendownload video</string>
+    <string name="download_completed">Download selesai</string>
+    <string name="download_error">Download error</string>
+    <string name="download_start_msg">Download \"%1$s\"</string>
+    <string name="settings">Pengaturan</string>
+    <string name="copyright_notice">Copyright © 2025</string>
+    <string name="ytdlp_update">Klik untuk update Ytdlp</string>
+    <string name="update_ytdlp">Update Yt-Dlp</string>
+    <string name="permission_denied">Ijin ditolak</string>
+    <string name="OK">OK</string>
+    <string name="enable_notifications_desc">Notifikasi mengenai status dan progres download.</string>
+    <string name="enable_notifications">Aktifkan notifikasi?</string>
+    <string name="downloading">Mengunduh....</string>
+</resources>

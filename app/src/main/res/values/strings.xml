@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">VidMax</string>
+    <string name="url">URL</string>
+    <string name="video">Video</string>
+    <string name="audio">Audio</string>
+    <string name="cancel">Cancel</string>
+    <string name="download">Download</string>
+    <string name="best_quality">Best Quality</string>
+    <string name="lowest_quality">Lowest Quality</string>
+    <string name="video_quality">Video Quality</string>
+    <string name="url_empty">URL is empty!</string>
+    <string name="download_service">Downloading</string>
+    <string name="channel_desc">Shows download progress for files</string>
+    <string name="failed_download_msg">Failed to download video</string>
+    <string name="download_completed">Download completed</string>
+    <string name="download_error">Download error</string>
+    <string name="download_start_msg">Download \"%1$s\"</string>
+    <string name="settings">Settings</string>
+    <string name="copyright_notice">Copyright © 2025"</string>
+    <string name="ytdlp_update">Click to install ytdlp</string>
+    <string name="update_ytdlp">Update Yt-Dlp</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="OK">OK</string>
+    <string name="enable_notifications_desc">Post notifications about download status and progress.</string>
+    <string name="enable_notifications">Enable notifications?</string>
+    <string name="downloading">Downloading....</string>
+</resources>
