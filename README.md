@@ -2,6 +2,12 @@
 
 A simple Android application for downloading videos from various sources using [yt-dlp](https://github.com/yt-dlp/yt-dlp) via [youtubedl-android](https://github.com/yausername/youtubedl-android).
 
+<div align="center">
+<div>
+<img src="screenshots/s1.jpg" alt="Image 1" width="30%">
+<img src="screenshots/s2.jpg" alt="Image 2" width="30%">
+</div>
+</div>
 ---
 
 ### ✨ Key Features
